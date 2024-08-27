@@ -1,0 +1,52 @@
+.icon{
+    display: none;
+}
+.sec1{
+    margin-top: 8%;
+} 
+.med{
+    display: none;
+}  
+@media screen and (max-width:1199.991px){
+
+    
+}
+@media (max-width: 991.767px) { 
+    .icon{
+        display: flex;
+    }   
+    .bar{
+        display: none;
+    }
+    .btn{
+        display: none;
+    }
+    .sec1{
+        display: none;
+    }
+    .sec4{
+        display: none;
+    }
+    .med{
+        display: flex;
+        color: black;
+       } 
+       .most2{
+        display: none;
+       }
+       .most1{
+        text-align: center;
+        font-size: 50px;
+       }
+   
+   }
+@media screen and (max-width:767.575px) {
+    
+    
+}
+@media screen and (max-width: 575.98px) {  
+
+
+
+
+}
